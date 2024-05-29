@@ -1,0 +1,13 @@
+{
+    "name": "sbuerk/play-project1",
+    "description": "project1",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stefan Bürk",
+            "email": "stefan@buerk.tech"
+        }
+    ],
+    "require": {}
+}
